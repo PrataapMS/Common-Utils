@@ -1,3 +1,5 @@
+import csv
+
 def save_as_csv(toCSV=[]):
 	# toCSV = [{'name':'bob','age':34,'weight':200},
 	#          {'name':'jim','age':31,'weight':180}]
